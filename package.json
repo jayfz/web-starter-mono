@@ -1,0 +1,7 @@
+{
+  "name": "web-monorepo",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
