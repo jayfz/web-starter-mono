@@ -1,15 +1,15 @@
 # web-starter-mono
-A collection of starter defaults for monorepo projects containing at least a backend in Node and a full client-side-routing in react using Vite.
+A collection of starter defaults for monorepo projects containing at least a backend in Node and a full client-side-routing in react app using Vite.
 
 ## Settings for the backend
 
-1. Typescript
-2. Eslint Airbnb base
-3. Prettier
+- Typescript
+- Eslint Airbnb base
+- Prettier
 
 ## Settings for the frontend:
-
-1. Typescript
-2. Eslint Airbnb-React
-3. Prettier
-4. Vitest + JestDom + React testing library
+- Vite React-Typescript template
+- Eslint Airbnb-React
+- Prettier
+- Vitest + JestDom + React testing library
+  
