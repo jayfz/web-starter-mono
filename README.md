@@ -6,12 +6,14 @@ A collection of starter defaults for monorepo projects containing at least a bac
 - Typescript
 - Eslint Airbnb base
 - Prettier
+- Root import setup with @/
 
 ## Settings for the frontend:
 - Vite React-Typescript template
 - Eslint Airbnb-React
 - Prettier
 - Vitest + JestDom + React testing library
+- Root import setup with @/
 
 
 How to use:
