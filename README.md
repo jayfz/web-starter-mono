@@ -12,4 +12,11 @@ A collection of starter defaults for monorepo projects containing at least a bac
 - Eslint Airbnb-React
 - Prettier
 - Vitest + JestDom + React testing library
+
+
+How to use:
+
+1. Clone
+2. `npm pkg set name="my-mono-repo"`
+3. npm i
   
