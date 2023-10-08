@@ -37,6 +37,11 @@ module.exports = {
       files: ['**/*.test.tsx', '**/*.test.ts', 'setupTests.ts'],
       rules: {
         'import/no-extraneous-dependencies': 0,
+      },
+    },
+    {
+      files: ['**/*.ts', '**/*.tsx'],
+      rules: {
         'import/extensions': [
           2,
           {
